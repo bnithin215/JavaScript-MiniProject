@@ -7,7 +7,7 @@ Welcome to the **JavaScript Mini Projects** repository – a collection of simpl
 
 | Project Name   | Description                            | Demo |
 |----------------|----------------------------------------|---------------------|
-| Memory Game    | Flip and match cards to win            | Coming Soon         |
+| Memory Game    | Flip and match cards to win            | https://java-script-mini-project-omega.vercel.app/        |
 
 More projects coming soon...
 
