@@ -15,7 +15,7 @@ More projects coming soon...
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ## 🚀 Getting Started
 
